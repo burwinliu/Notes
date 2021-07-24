@@ -1,3 +1,9 @@
+# Leetcode566
+Reshape matricies to fit certain shapes (in 2d list form)
+
+Pretty classic array manipulation situation -- check size, check if possible, then fit it in.
+
+```
 class Solution:
     def matrixReshape(self, mat: List[List[int]], r: int, c: int) -> List[List[int]]:
         if len(mat) == 0:
@@ -15,4 +21,4 @@ class Solution:
             return res
         else: 
             return mat
-        
+```

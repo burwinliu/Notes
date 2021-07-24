@@ -1,4 +1,7 @@
-# There is a more optimal solution with direct mapping (record, mapping s->t, check if match) but this was my initial solution. At any rate, O(N) time, O(1) space
+# Leetcode205
+There is a more optimal solution with direct mapping (record, mapping s->t, check if match) but this was my initial solution. At any rate, O(N) time, O(1) space
+
+```
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
         records = dict()
@@ -25,3 +28,4 @@ class Solution:
             else:
                 return False
         return True
+```

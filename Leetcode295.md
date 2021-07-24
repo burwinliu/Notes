@@ -1,3 +1,7 @@
+# Leetcode295
+Seems to be a typical PQ/binary search esque (trade off a bit of time to sort values, use sturcture to derive meaning). A bit smarter way would be to use self-balancing BST to store and find middle, but (use libraries for that)
+
+```
 class MedianFinder:
 
     def __init__(self):
@@ -36,11 +40,5 @@ class MedianFinder:
             return (self.store[len(self.store)//2] - self.store[(len(self.store)//2)-1])/2 + self.store[(len(self.store)//2)-1]
         else:
             return self.store[len(self.store)//2]
+```
 
-
-# Your MedianFinder object will be instantiated and called as such:
-# obj = MedianFinder()
-# obj.addNum(num)
-# param_2 = obj.findMedian()
-
-# Seems to be a typical PQ/binary search esque (trade off a bit of time to sort values, use sturcture to derive meaning)

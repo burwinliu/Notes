@@ -1,3 +1,7 @@
+# Leetcode89
+Still solving...
+
+```
 def grayCode(n: int):
     res = [0]
     def helper(r):
@@ -27,3 +31,4 @@ def grayCode(n: int):
         return False
     helper(set([i for i in range(1, 2**n)]))
     return res
+```

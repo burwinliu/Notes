@@ -1,3 +1,5 @@
+
+```
 class Solution:
     def numMatchingSubseq(self, s: str, words: List[str]) -> int:
         count = 0
@@ -20,3 +22,4 @@ class Solution:
             else:
                 recordNo.add(word)
         return count
+```
