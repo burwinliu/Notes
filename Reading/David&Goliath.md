@@ -3,7 +3,7 @@
 * Lesson: Use untraditional approach and the weaknesses of your opposition to create victory
 # Basketball
 * With great conditioning, outrun and defeat the opposition with technically better skill 
-# CLass Size
+# Class Size
 * Inverted U curve -- extremely large and extremely small is bad
 * Without opposition, it becomes difficult to innovate and adapt to new situations -- and therefore very affluent childrens sometimes fail to have the same inventiveness as their less affluential background parents
 # University
@@ -34,5 +34,4 @@
 * With overwhelming force the US *should* win, but with an understanding of the people and the "backed into a corner" mentality, they would never lose either
 
 # Thoughts
-The book presents a lot of annecdotal based information, and a lot of the data *feels* custom fit for his arguements -- but I can never be sure. The values and the points seem logical enough; however
-great advantages are great for a reason -- and therefore, I am skeptical of the points at times. Overall, do keep in mind the potential upset that underdogs may provide
+The book presents a lot of annecdotal based information, and a lot of the data *feels* custom fit for his arguements -- but I can never be sure. The values and the points seem logical enough; however great advantages are great for a reason -- and therefore, I am skeptical of the points at times. Overall, do keep in mind the potential upset that underdogs may provide
